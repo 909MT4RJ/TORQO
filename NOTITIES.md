@@ -1,4 +1,8 @@
-TORQO 0.5.0 (testversie)
+TORQO 0.6.0 (testversie)
+
+- Automatiseringen (Instellingen → Automatiseringen): lead meteen beantwoorden en opvolgen, offerte opvolgen, verjaardag, garantie loopt af, betalingsherinneringen, tenaamstelling, stadagen, onderhoud en bandenwissel. Standaard uit.
+
+In 0.5.0:
 
 - Werkplaats: optioneel een sms, WhatsApp en/of e-mail aan de klant zodra zijn auto klaar is. De sms-aanbieder stel je zelf in bij Koppelingen → SMS en WhatsApp.
 
