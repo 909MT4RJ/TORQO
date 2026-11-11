@@ -1,5 +1,7 @@
-TORQO 0.3.0 (testversie)
+TORQO 0.4.0 (testversie)
 
-- Inloggen met gebruikersnaam en wachtwoord, met optionele tweestapsverificatie (authenticator-app, herstelcodes). Een beheerder kan 2FA verplicht maken.
-- Licentie per bedrijf voor een vast aantal pc's; andere pc's sluiten aan met dezelfde licentiecode.
-- Bedrijfsprofiel met eigen logo en huiskleur op alle documenten.
+- Werkplaats (extra pakket in de licentie): weekplanning, werkorders, aanvragen vanuit de verkoop en de werkplaatsfactuur (arbeid en onderdelen, zelfde nummering als de verkoopfacturen).
+- Afdeling per medewerker: verkoop, werkplaats of beide. De werkplaats ziet geen verkoop.
+- APK: automatisch bijwerken via de RDW en APK-herinneringen aan klanten.
+- Betaallinks voor aanbetaling en restbedrag (Mollie, Stripe, MultiSafepay, Adyen).
+- Voorraad publiceren naar je website (map, FTP of webhook).

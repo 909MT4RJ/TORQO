@@ -1,8 +1,8 @@
-version: 0.3.0
+version: 0.4.0
 files:
-  - url: TORQO-Setup-0.3.0.exe
-    sha512: pfpmEiV853pFvOPWfjCWRs1W2OjLaU9WQeHC8WTGJAGWqb6/oylKFTH+xrwbdyobQ1d/vPNEqVW+hXUNJWapgA==
-    size: 94980875
-path: TORQO-Setup-0.3.0.exe
-sha512: pfpmEiV853pFvOPWfjCWRs1W2OjLaU9WQeHC8WTGJAGWqb6/oylKFTH+xrwbdyobQ1d/vPNEqVW+hXUNJWapgA==
-releaseDate: '2026-11-11T09:09:15.659Z'
+  - url: TORQO-Setup-0.4.0.exe
+    sha512: Odarah2yt0pUdlAIn705yDI5dBEvMcpggvRb3JMcWt+2VEjb7B30IduYjRWrtHAThGAMawFUegVmJxsa4daYEA==
+    size: 95015131
+path: TORQO-Setup-0.4.0.exe
+sha512: Odarah2yt0pUdlAIn705yDI5dBEvMcpggvRb3JMcWt+2VEjb7B30IduYjRWrtHAThGAMawFUegVmJxsa4daYEA==
+releaseDate: '2026-11-11T10:35:33.024Z'
