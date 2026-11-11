@@ -1,4 +1,11 @@
-TORQO 0.7.0 (testversie)
+TORQO 0.8.0 (testversie)
+
+- Bankafschrift (CAMT.053) inlezen en betalingen koppelen aan facturen (Administratie → Bank).
+- Btw-overzicht per kwartaal met de margeregeling (Administratie → Btw).
+- Prijsbewaking via de taxatiekoppeling (automatisering).
+- AI-assistent met eigen API-sleutel: advertentieteksten en antwoorden op leads.
+
+In 0.7.0:
 
 - Pinautomaat aan de balie: Mollie, SumUp, Stripe of Adyen (Instellingen → Koppelingen → Pinautomaat). Knop Pinnen op facturen en in het dossier.
 - Zoekopdrachten van klanten, inruilauto vanzelf naar de voorraad, factuur mailen en betaallink bij een factuur.
