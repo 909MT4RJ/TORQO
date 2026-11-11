@@ -1,4 +1,9 @@
-TORQO 0.8.0 (testversie)
+TORQO 0.8.1 (testversie)
+
+- Opgelost: een offerte openen in een verkoopdossier gaf een foutmelding.
+- Kentekens breken niet meer af over twee regels.
+
+In 0.8.0:
 
 - Bankafschrift (CAMT.053) inlezen en betalingen koppelen aan facturen (Administratie → Bank).
 - Btw-overzicht per kwartaal met de margeregeling (Administratie → Btw).
