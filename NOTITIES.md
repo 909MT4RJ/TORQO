@@ -1,4 +1,9 @@
-TORQO 0.6.0 (testversie)
+TORQO 0.7.0 (testversie)
+
+- Pinautomaat aan de balie: Mollie, SumUp, Stripe of Adyen (Instellingen → Koppelingen → Pinautomaat). Knop Pinnen op facturen en in het dossier.
+- Zoekopdrachten van klanten, inruilauto vanzelf naar de voorraad, factuur mailen en betaallink bij een factuur.
+
+In 0.6.0:
 
 - Automatiseringen (Instellingen → Automatiseringen): lead meteen beantwoorden en opvolgen, offerte opvolgen, verjaardag, garantie loopt af, betalingsherinneringen, tenaamstelling, stadagen, onderhoud en bandenwissel. Standaard uit.
 
