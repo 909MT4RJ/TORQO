@@ -1,4 +1,9 @@
-TORQO 0.8.3 (testversie)
+TORQO 0.8.4 (testversie)
+
+- TORQO blijft altijd in de eigen huisstijl; de huiskleur van een bedrijf komt alleen op de documenten.
+- Het bedrijfslogo op het inlogscherm is kleiner.
+
+In 0.8.3:
 
 - Afleveringen: bij Afgeleverd en Datum verstreken staat nu ook de datum.
 
