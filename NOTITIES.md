@@ -1,4 +1,8 @@
-TORQO 0.8.2 (testversie)
+TORQO 0.8.3 (testversie)
+
+- Afleveringen: bij Afgeleverd en Datum verstreken staat nu ook de datum.
+
+In 0.8.2:
 
 - Automatisch vergrendelen is instelbaar: nooit, of na 5, 10, 15, 30 of 60 minuten (Instellingen → Medewerkers).
 
