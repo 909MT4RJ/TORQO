@@ -1,4 +1,8 @@
-TORQO 0.8.1 (testversie)
+TORQO 0.8.2 (testversie)
+
+- Automatisch vergrendelen is instelbaar: nooit, of na 5, 10, 15, 30 of 60 minuten (Instellingen → Medewerkers).
+
+In 0.8.1:
 
 - Opgelost: een offerte openen in een verkoopdossier gaf een foutmelding.
 - Kentekens breken niet meer af over twee regels.
