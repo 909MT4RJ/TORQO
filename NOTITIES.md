@@ -1,4 +1,12 @@
-TORQO 0.8.4 (testversie)
+TORQO 0.8.6 (testversie)
+
+- Vensters: past de rij met knoppen onderaan niet, dan scroll je hem naar links en rechts; er valt niets meer weg.
+
+In 0.8.5:
+
+- Demolicentie: een licentie met het pakket "demo" toont bij het invoeren de knop "Demobedrijf starten". TORQO maakt dan een fictief, goed lopend autobedrijf aan (klanten, voorraad, verkopen, afleveringen, proefritten, leads en werkplaats) en logt meteen in. Bedoeld om TORQO te laten zien.
+
+In 0.8.4:
 
 - TORQO blijft altijd in de eigen huisstijl; de huiskleur van een bedrijf komt alleen op de documenten.
 - Het bedrijfslogo op het inlogscherm is kleiner.
