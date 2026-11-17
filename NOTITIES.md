@@ -1,4 +1,9 @@
-TORQO 0.8.7 (testversie)
+TORQO 0.8.8 (testversie)
+
+- Aflevering plannen: de knop Afleverdatum vastzetten werkt nu altijd. Is de overeenkomst nog niet als ondertekend vastgelegd, dan vraagt TORQO dat eerst en opent daarna meteen het plannen.
+- Afleveringen: overeenkomsten die nog niet zijn ondertekend staan apart, onder Overeenkomst nog niet ondertekend.
+
+In 0.8.7:
 
 - Demobedrijf: de auto's op voorraad hebben een foto van het juiste model, en de kleur in TORQO past bij de foto.
 
