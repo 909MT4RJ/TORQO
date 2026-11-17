@@ -1,4 +1,10 @@
-TORQO 0.8.10 (testversie)
+TORQO 0.8.11 (testversie)
+
+- Nieuw: Instellingen → Financiering. Voeg hier je financieringsmaatschappijen toe, met rente en een standaard. In een offerte kies je de maatschappij uit een lijst; de standaard staat er meteen in als je Financiering aanklikt. De offerte blijft niet meer hangen op "Financieringsmaatschappij kiezen".
+- Offerte met financiering: het financieringsvoorbeeld staat nu als duidelijk overzicht op de offerte: maandbedrag, te financieren, looptijd, rente, jaarlijks kostenpercentage, totaal terug te betalen en andere looptijden.
+- Demobedrijf: alle auto's hebben een foto, ook de verkochte en afgeleverde; het team (verkoper en monteurs) staat bij Medewerkers.
+
+In 0.8.10:
 
 - Updates: TORQO kijkt nu elke 10 minuten (was een half uur) en meteen als je terugkomt in het venster, zodat de melding van een nieuwe versie sneller verschijnt.
 
