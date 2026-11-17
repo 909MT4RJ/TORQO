@@ -1,4 +1,8 @@
-TORQO 0.8.9 (testversie)
+TORQO 0.8.10 (testversie)
+
+- Updates: TORQO kijkt nu elke 10 minuten (was een half uur) en meteen als je terugkomt in het venster, zodat de melding van een nieuwe versie sneller verschijnt.
+
+In 0.8.9:
 
 - Demobedrijf: ook een demobedrijf dat met een oudere versie is gemaakt, krijgt nu foto's bij de auto's op voorraad (gebeurt vanzelf bij het opstarten, alleen bij een demolicentie). Nu voor alle 27 modellen een foto.
 
