@@ -1,4 +1,8 @@
-TORQO 0.8.6 (testversie)
+TORQO 0.8.7 (testversie)
+
+- Demobedrijf: de auto's op voorraad hebben een foto van het juiste model, en de kleur in TORQO past bij de foto.
+
+In 0.8.6:
 
 - Vensters: past de rij met knoppen onderaan niet, dan scroll je hem naar links en rechts; er valt niets meer weg.
 
