@@ -1,8 +1,8 @@
-version: 0.8.12
+version: 0.8.13
 files:
-  - url: TORQO-Setup-0.8.12.exe
-    sha512: kWKnS+S7uINzuhssl0dkF0C25ripzryXtk+0yaF5IvsQiMPxDLBS5hv/tAau8B2foFSwBtlpOxWvHOj2jM6U6Q==
-    size: 98581047
-path: TORQO-Setup-0.8.12.exe
-sha512: kWKnS+S7uINzuhssl0dkF0C25ripzryXtk+0yaF5IvsQiMPxDLBS5hv/tAau8B2foFSwBtlpOxWvHOj2jM6U6Q==
-releaseDate: '2026-11-17T19:37:46.968Z'
+  - url: TORQO-Setup-0.8.13.exe
+    sha512: wtG2AP9q1XnS4qgvvV5i/rPrz3xVztaJF2wlPFLyZhhOCaGWu0dPjuhsMxADwv9VRpOAJ6UkB7XKu1ZySrinTw==
+    size: 98585730
+path: TORQO-Setup-0.8.13.exe
+sha512: wtG2AP9q1XnS4qgvvV5i/rPrz3xVztaJF2wlPFLyZhhOCaGWu0dPjuhsMxADwv9VRpOAJ6UkB7XKu1ZySrinTw==
+releaseDate: '2026-11-17T20:33:32.679Z'

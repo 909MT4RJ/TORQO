@@ -1,4 +1,10 @@
-TORQO 0.8.12 (testversie)
+TORQO 0.8.13 (testversie)
+
+- Abonnement: de licentie wordt vanzelf verlengd. Vanaf 14 dagen voor het einde haalt TORQO zelf een verlengde licentiecode op bij de licentieserver; een ander pakket of extra pc's komen ook zo mee. Bij Instellingen → Licentie en pc's staat tot wanneer er betaald is, met de knop Nu controleren.
+- Nieuw pakket Werkplaats Solo: voor garages zonder autoverkoop. TORQO toont dan alleen de werkplaats, klanten en de handleiding; de werkplaats staat vanzelf aan.
+- Verlopen abonnement: eerst 30 dagen alles gewoon gebruiken met een melding bovenin, daarna alleen lezen (inzien, exporteren en back-ups blijven altijd mogelijk).
+
+In 0.8.12:
 
 - Documenten in een luxe uitstraling: offerte, koopovereenkomst, factuur, proefritformulier en afleverbewijs met een verfijnde schreefletter (Spectral), gecentreerde kop met logo, fijne champagnekleurige lijnen en veel witruimte. De lettertypen zitten in TORQO zelf en gaan mee in de PDF.
 - Afleverbewijs: het bedankje is nu een persoonlijk, gecentreerd kaartje.
