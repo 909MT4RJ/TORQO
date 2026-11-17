@@ -1,4 +1,12 @@
-TORQO 0.8.11 (testversie)
+TORQO 0.8.12 (testversie)
+
+- Documenten in een luxe uitstraling: offerte, koopovereenkomst, factuur, proefritformulier en afleverbewijs met een verfijnde schreefletter (Spectral), gecentreerde kop met logo, fijne champagnekleurige lijnen en veel witruimte. De lettertypen zitten in TORQO zelf en gaan mee in de PDF.
+- Afleverbewijs: het bedankje is nu een persoonlijk, gecentreerd kaartje.
+- Offerte en koopovereenkomst: een aanbetaling wordt nu duidelijk van het totaal afgetrokken (Totaalprijs, Aanbetaling −, en groot het bedrag dat nog Te betalen is). Ook zo in het prijsoverzicht in TORQO.
+- Bedankmail (reviewmail na de aflevering): met een grote foto van de gekochte auto in de mail zelf. Werkt via Outlook op de pc, SMTP, Microsoft 365, SendGrid, Postmark en Mailgun; bij Brevo gaat de mail zonder foto.
+- E-mails aan klanten (reviewmail, PIN-herinnering, opvolging, betaallinks, facturen) krijgen dezelfde stijlvolle opmaak. De standaardteksten van de bedankjes zijn persoonlijker gemaakt; eigen teksten blijven zoals ze zijn.
+
+In 0.8.11:
 
 - Nieuw: Instellingen → Financiering. Voeg hier je financieringsmaatschappijen toe, met rente en een standaard. In een offerte kies je de maatschappij uit een lijst; de standaard staat er meteen in als je Financiering aanklikt. De offerte blijft niet meer hangen op "Financieringsmaatschappij kiezen".
 - Offerte met financiering: het financieringsvoorbeeld staat nu als duidelijk overzicht op de offerte: maandbedrag, te financieren, looptijd, rente, jaarlijks kostenpercentage, totaal terug te betalen en andere looptijden.
