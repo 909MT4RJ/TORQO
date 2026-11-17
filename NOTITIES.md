@@ -1,4 +1,8 @@
-TORQO 0.8.8 (testversie)
+TORQO 0.8.9 (testversie)
+
+- Demobedrijf: ook een demobedrijf dat met een oudere versie is gemaakt, krijgt nu foto's bij de auto's op voorraad (gebeurt vanzelf bij het opstarten, alleen bij een demolicentie). Nu voor alle 27 modellen een foto.
+
+In 0.8.8:
 
 - Aflevering plannen: de knop Afleverdatum vastzetten werkt nu altijd. Is de overeenkomst nog niet als ondertekend vastgelegd, dan vraagt TORQO dat eerst en opent daarna meteen het plannen.
 - Afleveringen: overeenkomsten die nog niet zijn ondertekend staan apart, onder Overeenkomst nog niet ondertekend.
